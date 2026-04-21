@@ -150,4 +150,4 @@ int main() {
 	CloseWindow();
 	return 0;
 }
-// I know that the computer to beat, I'm working on it.
+// I know that the computer is impossible to beat, I'm working on it.
